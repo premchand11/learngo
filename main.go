@@ -2,6 +2,14 @@ package main
 
 import (
 	"fmt"
+	"learngo/pointersss"
+	// "learngo/structs"
+	// "learngo/maps"
+	// "learngo/loops"
+	// "learngo/switchcase"
+	// "learngo/ifelse"
+	// "learngo/slice"
+	// "learngo/array"
 	// errorhandeling "learngo/error_handeling"
 	// "learngo/userinput"
 	// "learngo/varibles"
@@ -14,5 +22,12 @@ func main() {
 	// varibles.VariblesTry()
 	// userinput.Userinput2()
 	// errorhandeling.Errorhandel()
-
+	// array.Learnarray()
+	// slice.Learnslice()
+	// ifelse.Learnifelse()
+	// switchcase.Learnswitch()
+	// loops.Learnloops2()
+	// maps.Learnmap()
+	// structs.LearnStructs()
+	pointersss.Learnpointers()
 }

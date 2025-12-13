@@ -3,7 +3,8 @@ package main
 import (
 	"fmt"
 	// "learngo/deferkeyword"
-	"learngo/filehandelingpack"
+	// "learngo/filehandelingpack"
+	"learngo/webrequest"
 	// "learngo/timepackage"
 	// "learngo/stringpackage"
 	// "learngo/dataconversion"
@@ -39,5 +40,6 @@ func main() {
 	// stringpackage.Learnstrings()
 	// timepackage.Learntimepack()
 	// deferkeyword.Learndefer()
-	filehandelingpack.Learnfilehandel()
+	// filehandelingpack.Learnfilehandel()
+	webrequest.Learnwebrequest()
 }

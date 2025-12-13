@@ -2,7 +2,12 @@ package main
 
 import (
 	"fmt"
-	"learngo/pointersss"
+	// "learngo/deferkeyword"
+	"learngo/filehandelingpack"
+	// "learngo/timepackage"
+	// "learngo/stringpackage"
+	// "learngo/dataconversion"
+	// "learngo/pointersss"
 	// "learngo/structs"
 	// "learngo/maps"
 	// "learngo/loops"
@@ -29,5 +34,10 @@ func main() {
 	// loops.Learnloops2()
 	// maps.Learnmap()
 	// structs.LearnStructs()
-	pointersss.Learnpointers()
+	// pointersss.Learnpointers()
+	// dataconversion.Learndataconversion()
+	// stringpackage.Learnstrings()
+	// timepackage.Learntimepack()
+	// deferkeyword.Learndefer()
+	filehandelingpack.Learnfilehandel()
 }

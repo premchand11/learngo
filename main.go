@@ -4,7 +4,9 @@ import (
 	"fmt"
 	// "learngo/deferkeyword"
 	// "learngo/filehandelingpack"
-	"learngo/webrequest"
+	"learngo/crud"
+	// "learngo/jsonn"
+	// "learngo/webrequest"
 	// "learngo/timepackage"
 	// "learngo/stringpackage"
 	// "learngo/dataconversion"
@@ -41,5 +43,8 @@ func main() {
 	// timepackage.Learntimepack()
 	// deferkeyword.Learndefer()
 	// filehandelingpack.Learnfilehandel()
-	webrequest.Learnwebrequest()
+	// webrequest.Learnwebrequest()
+	// jsonn.Learnjsongo()
+	crud.Learncrudd()
+
 }

@@ -4,7 +4,9 @@ import (
 	"fmt"
 	// "learngo/deferkeyword"
 	// "learngo/filehandelingpack"
-	"learngo/crud"
+	// goroutines "learngo/Goroutines"
+	"learngo/syncwi8grp"
+	// "learngo/crud"
 	// "learngo/jsonn"
 	// "learngo/webrequest"
 	// "learngo/timepackage"
@@ -45,6 +47,7 @@ func main() {
 	// filehandelingpack.Learnfilehandel()
 	// webrequest.Learnwebrequest()
 	// jsonn.Learnjsongo()
-	crud.Learncrudd()
-
+	// crud.Learncrudd()
+	// goroutines.LearnGoroutines()
+	syncwi8grp.LearnsyncWi8()
 }
